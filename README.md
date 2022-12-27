@@ -1,4 +1,4 @@
-# Machine-Learning-Movie-Rating-Regression
+# Machine-Learning-Movie-Rating-Prediction
 
 # Technologies
 Python

@@ -35,5 +35,3 @@ Loss vs number of epoch
 Loss vs training set size
 
 <img src="https://github.com/grimloc-aduque/Machine-Learning-Movie-Rating-Regression/blob/main/Images/loss_vs_training_set_size.png" style="width:400px;"/>
-
-
